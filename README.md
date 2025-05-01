@@ -4,7 +4,7 @@ El propósito del análisis realizado.
 
 Objetivo es ayudar al señor Juen en decidir que tienda vender para invertir en un nuevo negocio.
 
-\tLos puntos a trabajar son:
+<\t>Los puntos a trabajar son:
 
 * Facturación total de cada tienda
 * Categorías más populares
