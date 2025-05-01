@@ -12,3 +12,5 @@ Los puntos a trabajar son:
 Generar un informe final basandome en las 5 evaluaxciones anteriores para determinar cual tienda es la que debe vender el señor Juan.
 
 Se subio el archivo AluraStoreLatam.ipynb que esl el código de extracción de datos.
+Se selecciono la opción drive de la cuenta de correo que se genero de Google para hacer la copia de la información de Google Colab
+
