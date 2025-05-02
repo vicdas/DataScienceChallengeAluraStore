@@ -28,7 +28,12 @@ El conjunto de datos incluye la siguiente información:
 - Tipo de Pago y Cuotas: Métodos utilizados por los clientes.
 - Coordenadas Geográficas: Ubicación de las transacciones.
 
-Se trabajo en la parte de generar la Facturación de cada tienda y indicar cual tienda vende más.
+Se trabajo en las partes de:
++ Análisis de Facturación
++ Ventas por categoría
++ Calificación promedio de la tienda
++ Productos más y menos vendidos
++ Envío promedio por tienda
 
 3. Ejemplos de gráficos e insights obtenidos.
 
