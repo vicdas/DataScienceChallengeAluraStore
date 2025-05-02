@@ -33,9 +33,6 @@ Se trabajo en la parte de generar la Facturación de cada tienda y indicar cual 
 3. Ejemplos de gráficos e insights obtenidos.
 
 
-- Evaluación de compra: Comentarios de clientes.
-- Tipo de Pago y Cuotas: Métodos utilizados por los clientes.
-- Coordenadas Geográficas: Ubicación de las transacciones.
 
 4. Instrucciones para ejecutar el notebook.
 
