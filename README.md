@@ -37,7 +37,7 @@ Se trabajo en las partes de:
 
 3. Ejemplos de gráficos e insights obtenidos.
 
-
+[img1]: /ruta/a/la/imagen.jpg "Título alternativo"
 
 4. Instrucciones para ejecutar el notebook.
 
