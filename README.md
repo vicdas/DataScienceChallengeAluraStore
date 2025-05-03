@@ -39,5 +39,9 @@ Se trabajo en las partes de:
 
 ![Facturación de las tiendas](facturacion_tiendas.jpg)
 
+![Calificación promedio de los clientes de las tiendas](calificacion_promedio_tiendas.jpg)
+
+![Envio promedio de las tiendas](envio_promedio_tiendas.jpg)
+
 4. Instrucciones para ejecutar el notebook.
 
