@@ -39,6 +39,10 @@ Se trabajo en las partes de:
 
 ![Facturación de las tiendas](facturacion_tiendas.jpg)
 
+![Productos más vendidos](ventas_producto_tienda.jpg)
+
+![Categorías más vendidas](ventas_categoria_tienda.jpg)
+
 ![Calificación promedio de los clientes de las tiendas](calificacion_promedio_tiendas.jpg)
 
 ![Envio promedio de las tiendas](envio_promedio_tiendas.jpg)
